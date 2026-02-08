@@ -111,7 +111,8 @@ Alert activation for wrong passwords
 Accurate entry counting using laser interruption logic
 
 📸 Simulation Screenshot:
-(Add your simulation image here)
+<img width="802" height="341" alt="simulation" src="https://github.com/user-attachments/assets/5ea87a5f-0064-48ee-a3ac-55919f0a2206" />
+
 
 ✅ Advantages
 
